@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,iPhone 15,Electronics,9805
+2,Samsung Galaxy,Electronics,8216
+3,Laptop,Electronics,30507
+4,Smart Watch,Electronics,9334
+5,Keyboard,Electronics,4617
+6,Mouse,Electronics,43809
+7,Headphones,Electronics,9787
+8,Power Bank,Electronics,67891
+9,Bluetooth Speaker,Electronics,31695
+10,Monitor,Electronics,37000
+11,T-Shirt,Fashion,64124
+12,Jeans,Fashion,28580
+13,Shoes,Fashion,71178
+14,Backpack,Fashion,17842
+15,Jacket,Fashion,75347
+16,Coffee Maker,Home,76025
+17,Mixer Grinder,Home,62453
+18,Water Bottle,Home,32350
+19,Study Table,Home,62493
+20,Chair,Home,53854
+21,Novel,Books,25457
+22,Python Book,Books,12863
+23,SQL Book,Books,13204
+24,Notebook,Books,56998
+25,Football,Sports,46938
+26,Cricket Bat,Sports,56019
+27,Yoga Mat,Sports,54383
+28,Dumbbells,Sports,61713
+29,Perfume,Beauty,7600
+30,Face Wash,Beauty,13399
+31,Lipstick,Beauty,8444
+32,Shampoo,Beauty,53272
+33,Conditioner,Beauty,44973
+34,Face Cream,Beauty,14822
+35,Gaming Mouse,Electronics,33091
+36,Gaming Keyboard,Electronics,25612
+37,Tablet,Electronics,25431
+38,Printer,Electronics,70792
+39,SSD,Electronics,59300
+40,Hard Disk,Electronics,18873
+41,Sneakers,Fashion,55796
+42,Sunglasses,Fashion,24550
+43,Cap,Fashion,37009
+44,Watch,Fashion,61137
+45,Cookware Set,Home,33242
+46,Bedsheet,Home,10380
+47,Pillow,Home,58582
+48,Wall Clock,Home,72632
+49,Tennis Racket,Sports,13333
+50,Hair Dryer,Beauty,7130
