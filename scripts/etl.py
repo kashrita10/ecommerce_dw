@@ -44,7 +44,7 @@ print("Transformation completed successfully!")
 # -------------------------
 
 engine = create_engine(
-    "postgresql://postgres:9507@localhost:5432/ecommerce_dw"
+    "postgresql://postgres:password@localhost:5432/ecommerce_dw"
 )
 
 print("Connected to PostgreSQL successfully!")
