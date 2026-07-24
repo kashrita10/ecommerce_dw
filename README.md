@@ -57,18 +57,12 @@ Example database tables:
 
 ## Features
 
-- Generated sample e-commerce data using Python and Faker.
-
----
-
-## Features
-
-- Generated sample e-commerce data using Python and Faker.
-- Cleaned and transformed the data using Pandas.
-- Loaded the data into PostgreSQL.
-- Used SQL to answer business questions.
-- Built an interactive Power BI dashboard to visualize sales insights.
-
+- Generated realistic e-commerce data using Python and Faker.
+- Built an ETL pipeline to extract, transform, and load data.
+- Cleaned and transformed raw data using Pandas.
+- Loaded processed data into a PostgreSQL data warehouse.
+- Wrote SQL queries to analyze sales, customers, and products.
+- Created an interactive Power BI dashboard with key business insights.
 ---
 
 ## Dashboard
@@ -93,17 +87,17 @@ The dashboard shows:
 
 ## Project Structure
 
-```
+```text
 ecommerce_dw/
 │
-├── data/
-├── scripts/
-├── sql/
-├── powerbi/
-├── screenshots/
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── data/              # Generated CSV files
+├── scripts/           # Python scripts (Data Generation & ETL)
+├── sql/               # Database creation and analysis queries
+├── powerbi/           # Power BI dashboard (.pbix)
+├── screenshots/       # Dashboard images
+├── README.md          # Project documentation
+├── requirements.txt   # Python dependencies
+└── .gitignore         # Git ignore rules
 ```
 
 ---
